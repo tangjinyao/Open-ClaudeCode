@@ -1,0 +1,12 @@
+{
+  "env": {
+    "ANTHROPIC_AUTH_TOKEN": "sk-cp-juW_eOHwjY18oJqgB-9K4CrbWTsUJSbMcXh9kEAvZX451HhxTCYyhOXFTjh-wWM_XvneSrxw3tMGOftEILffuwnd98nw1qaaGo8ijOGQrT7xj0yv-Qhls6Y",
+    "ANTHROPIC_BASE_URL": "https://api.minimaxi.com/anthropic",
+    "ANTHROPIC_MODEL": "MiniMax-M2.7",
+    "ANTHROPIC_DEFAULT_SONNET_MODEL": "MiniMax-M2.7",
+    "ANTHROPIC_DEFAULT_OPUS_MODEL": "MiniMax-M2.7",
+    "ANTHROPIC_DEFAULT_HAIKU_MODEL": "MiniMax-M2.7",
+    "API_TIMEOUT_MS": "3000000",
+    "CLAUDE_CODE_FEATURES": "BUDDY:1"
+  }
+}
